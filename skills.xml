@@ -1,0 +1,32 @@
+<theory>base theory of QA</theory>
+<web theory>
+<theory>client-server architecture</theory>
+<theory>structure of http request-response</theory>
+<theory>codes of http-resonse</theory> 
+<theory>structure of xml and json</theory> 
+</web theory>
+<web-testing practice>
+<practice>testing api in postman win js-autotest</practice>
+<practice>Removing and reading logs from an external server</practice>
+<practice>web-browser devtools</practice>
+<practice>Sniffing http web traffic with Charles and Fiddler</practice>
+<practice>load testing in JMETER</practice>
+</web-testing practice>
+<mobile testing practice>
+<practice>features of ios/android</practice>
+<practice>assembly android and ios</practice>
+<practice>application</practice>
+<practice>abd</practice>
+<practice>proxy and vpn</practice>
+<practice>sniffing mobile web-traffic</practice>
+</mobile testing practice>
+<git>
+<practice>terminal linux</practice>
+<practice>gitbash</practice>
+<practice>github</practice>
+</git>    
+<database>
+<practice>SQL basic</practice>
+<practice>database postgres</practice>
+<practice>database redis</practice>
+</database>
