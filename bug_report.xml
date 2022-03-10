@@ -1,1 +1,10 @@
-
+<summary>отсутствует валидация полей имя и тема в форме контакты</summary>
+<project>вкусно-умело.ру</project>
+<component>обратная связь</component>
+<version>3.3.2</version>
+<severity>major</severity>
+<priority>medium</priority>
+<status>open</status>
+<autour>Timur Krepostin</autour>
+<assigned>ToIvan Ivanov</assigned>
+<discription>Ввести невалидные данные в форму у поля имя и тема в форме контакты, обратить внимание на валидацию полей формы</discription>
